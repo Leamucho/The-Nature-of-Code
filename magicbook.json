@@ -36,7 +36,9 @@
             "files": [ "stylesheets/pdf.scss" ]
          },
          "images" : {
-            "files" : "noc_pdf/imgs/**/*.*"
+            "files" : "noc_pdf/imgs/**/*.*",
+            "files" : "noc_pdf/imgs/**/**/*.*"
+            
          },
          "fonts" : {
             "destination" : "assets/fonts/"
