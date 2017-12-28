@@ -51,7 +51,8 @@
              "files": [ "stylesheets/html.scss" ]
           },
           "images" : {
-             "files" : "noc_html/imgs/**/*.*"
+             "files" : "noc_html/imgs/**/*.*",
+             "files" : "noc_pdf/imgs/**/**/*.*"
           },
           "fonts" : {
              "destination" : "assets/fonts/"
